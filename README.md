@@ -1,7 +1,5 @@
 # LAN chat
 
-![demo](demo.png)
-
 ## Install
 
     pip install -r requirements.txt
@@ -13,3 +11,7 @@
 ## Send messages
 
     python3 send.py <Username>
+
+## Demo
+
+![demo](demo.png)
