@@ -15,4 +15,4 @@ with term.fullscreen():
     msg = input()
     if msg.rstrip("\n\r") != '':
       payload = "{} {}".format(username, msg)
-      client.sendto(payload.encode(), ('<broadcast>', 37020))
+      client.sendto(payload.encode(), ('<broadcast>', 34567))

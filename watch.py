@@ -9,9 +9,9 @@ t = Terminal()
 
 print(t.bold_blue_on_white('Welcome to the truly Serverless LAN Chat!'))
 
-client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) # UDP
+client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
 client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
-client.bind(("", 37020))
+client.bind(("", 34567))
 
 while True:
   data, addr = client.recvfrom(1024)

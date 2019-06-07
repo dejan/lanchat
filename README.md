@@ -1,5 +1,7 @@
 # LAN chat
 
+A simple demo to try out [IP broadcasting](https://en.wikipedia.org/wiki/Broadcast_address) and have serveless chat over LAN.
+
 ## Install
 
     pip install -r requirements.txt
