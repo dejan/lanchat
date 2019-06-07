@@ -1,5 +1,7 @@
 # LAN chat
 
+![demo](demo.png)
+
 ## Install
 
     pip install -r requirements.txt
