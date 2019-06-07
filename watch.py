@@ -7,7 +7,7 @@ import binascii
 
 t = Terminal()
 
-print(t.bold_blue_on_white('Welcome to LAN Chat!'))
+print(t.bold_blue_on_white('Welcome to the truly Serverless LAN Chat!'))
 
 client = socket.socket(socket.AF_INET, socket.SOCK_DGRAM) # UDP
 client.setsockopt(socket.SOL_SOCKET, socket.SO_BROADCAST, 1)
