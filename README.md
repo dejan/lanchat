@@ -1,6 +1,6 @@
 # LAN chat
 
-A simple demo of trying out using [IP broadcasting](https://en.wikipedia.org/wiki/Broadcast_address) to have serveless chat over LAN.
+A simple demo of using [IP broadcasting](https://en.wikipedia.org/wiki/Broadcast_address) to have serveless chat over LAN.
 
 ## Install
 
