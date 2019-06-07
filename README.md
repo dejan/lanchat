@@ -4,10 +4,10 @@
 
     pip install -r requirements.txt
 
-## Watch the messages
+## Watch messages
 
     python3 watch.py
 
-## Send
+## Send messages
 
     python3 send.py <Username>
